@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729775396 source:c:\users\user\onedrive\Документы\codeblocks\question2\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+
